@@ -1,2 +1,2 @@
 # TABG-Map-Editor
-**Soon™**
+**Soon**
