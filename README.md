@@ -1,6 +1,6 @@
 # TABG-Map-Editor
 ## Installation
-**.** Download `TABGMapEditor.zip` from **Assets** in [releases](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
+**.** Download `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
 
 **.** Open TABG by opening directly from executable (*do not click on play from steam, find game files and run `TotallyAccurateBattlegrounds.exe`*).
 
