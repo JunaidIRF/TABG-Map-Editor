@@ -10,7 +10,7 @@
 
 **.** Open `load.bat` and enjoy.
 
-**.** [Common Objects Name List]() For Selecting to Duplicate/Spawn.
+**.** [Common Objects Name List](https://github.com/JunaidIRF/TABG-Map-Editor/blob/main/objnames) For Selecting to Duplicate/Spawn.
 
 **.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
 
