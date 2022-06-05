@@ -10,7 +10,7 @@
 
 **.** Open `load.bat` and enjoy.
 
-**.** [Objects Name List]() For Duplicating/Spawning.
+**.** [Objects Name List]() For Selecting to Duplicate/Spawn.
 
 **.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
 
