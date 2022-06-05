@@ -8,7 +8,7 @@
 
 **.** Open `load.bat` and enjoy.
 
-**.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests and more.
+**.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
 
 ## Controls
 **Select Hovered Object** = `N`
