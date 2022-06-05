@@ -10,6 +10,8 @@
 
 **.** Open `load.bat` and enjoy.
 
+**.** [Objects Name List]() For Duplicating/Spawning.
+
 **.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
 
 ## Controls
