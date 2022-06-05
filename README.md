@@ -29,4 +29,4 @@
 
 ## Custom Maps
 Map is Loaded/Saved in `Documents\TABGMaps\map.txt`
-You Can Share Your Map with others by giving them the `map.txt` and replacing it.
+You Can Share Your Map with others by giving them the `map.txt`.
