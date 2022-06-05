@@ -30,3 +30,4 @@
 ## Custom Maps
 Map is Loaded/Saved in `Documents\TABGMaps\map.txt`
 You Can Share Your Map with others by giving them the `map.txt`.
+Download maps made by other people [here](https://discord.gg/bbe2222WnT).
