@@ -1,4 +1,6 @@
 # TABG-Map-Editor
+**NOTE: Make Sure To Backup `map.txt` so you don't lose it when you save map after restart.**
+
 ## Installation
 **.** Download `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
 
@@ -30,5 +32,6 @@
 ## Custom Maps
 Map is Loaded/Saved in `Documents\TABGMaps\map.txt`. 
 You Can Share Your Map with others by giving them the `map.txt`.
+**NOTE: Make Sure To Backup `map.txt` so you don't lose it when you save map after restart.**
 
 Download maps made by other people [here](https://discord.gg/bbe2222WnT).
