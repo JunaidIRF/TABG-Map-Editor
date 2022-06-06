@@ -1,6 +1,8 @@
 # TABG-Map-Editor
 **NOTE: Make Sure To Backup `map.txt` so you don't lose it when you save map after restart.**
 
+[Common Objects Name List](https://github.com/JunaidIRF/TABG-Map-Editor/blob/main/objnames) For Selecting to Duplicate/Spawn.
+
 ## Installation
 **.** Download `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
 
@@ -9,8 +11,6 @@
 **.** Go to Shooting Range.
 
 **.** Open `load.bat` and enjoy.
-
-**.** [Common Objects Name List](https://github.com/JunaidIRF/TABG-Map-Editor/blob/main/objnames) For Selecting to Duplicate/Spawn.
 
 **.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
 
