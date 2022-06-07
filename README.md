@@ -4,7 +4,7 @@
 [Common Objects Name List](https://github.com/JunaidIRF/TABG-Map-Editor/blob/main/objnames) For Selecting to Duplicate/Spawn.
 
 ## Installation
-**.** Download `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
+**.** Download the latest `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
 
 **.** Open TABG by opening directly from executable (*do not click on play from steam, find game files and run `TotallyAccurateBattlegrounds.exe`*).
 
