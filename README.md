@@ -1,5 +1,5 @@
 # TABG-Map-Editor
-**NOTE: Make Sure To Backup `map.txt` so you don't lose it when you save map after restart.**
+**NOTE: Make Sure To Backup `map.tabgmap` so you don't lose it when you save map after restart.**
 
 [Common Objects Name List](https://github.com/JunaidIRF/TABG-Map-Editor/blob/main/objnames) For Selecting to Duplicate/Spawn.
 
@@ -23,6 +23,8 @@
 
 **Show/Hide UI** = `Numpad Multiply (*)`
 
+**Show/Hide Object Selection Menu** = `Home`
+
 **Save Map** = `End`
 
 **Move/Rotate/Scale Selected Object** = `Arrow Keys to Move at X and Z while Numpad 5/2 to move at Y`
@@ -32,9 +34,9 @@
 **Change Transform Mode** = `;  (Semicolon)`
 
 ## Custom Maps
-Map is Loaded/Saved in `Documents\TABGMaps\map.txt`. 
-You Can Share Your Map with others by giving them the `map.txt`.
+Map is Loaded/Saved in `Documents\TABGMaps\map.tabgmap`. 
+You Can Share Your Map with others by giving them the `map.tabgmap`.
 
-**NOTE: Make Sure To Backup `map.txt` so you don't lose it when you save map after restart.**
+**NOTE: Make Sure To Backup `map.tabgmap` so you don't lose it when you save map after restart.**
 
 Download maps made by other people [here](https://discord.gg/bbe2222WnT).
