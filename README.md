@@ -4,15 +4,15 @@
 [Common Objects Name List](https://github.com/JunaidIRF/TABG-Map-Editor/blob/main/objnames) For Selecting to Duplicate/Spawn.
 
 ## Installation
-**.** Download the latest `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
+- Download the latest `TABGMapEditor.zip` from **Assets** in [**releases**](https://github.com/JunaidIRF/TABG-Map-Editor/releases) and extract it.
 
-**.** Open TABG by opening directly from executable (*do not click on play from steam, find game files and run `TotallyAccurateBattlegrounds.exe`*).
+- Open TABG by opening directly from executable (*do not click on play from steam, find game files and run `TotallyAccurateBattlegrounds.exe`*).
 
-**.** Go to Shooting Range.
+- Go to Shooting Range.
 
-**.** Open `load.bat` and enjoy.
+- Open `load.bat` and enjoy.
 
-**.** Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
+- Join Our [**Discord**](https://discord.gg/bbe2222WnT) For Updates, Help, Requests, Reports and more.
 
 ## Controls
 **Select Hovered Object** = `N`
