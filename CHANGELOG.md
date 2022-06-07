@@ -14,4 +14,4 @@ All notable changes to this project will be documented in this file.
 - Changed from `map.txt` to `map.tabgmap`.
 - 
 ## [0.0.0.1] - 2022-14-5
-**Very First Public Build of TABGMapEditor**
+**First Public Build of TABGMapEditor**
